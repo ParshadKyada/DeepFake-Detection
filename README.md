@@ -1,7 +1,3 @@
-Based on the content from your report, I'll generate a `README.md` file for your GitHub project. Here's a draft:
-
----
-
 # DeepFake Detection Using ResNext and LSTM
 
 ## Project Overview
