@@ -43,7 +43,3 @@ The model is capable of classifying a video as real or fake with a high degree o
 ## Acknowledgments
 - Special thanks to the creators of the datasets used in this project: FaceForensic++, DFDC, and Celeb-DF.
 - Thanks to the deep learning community for providing open-source tools and resources.
-
----
-
-You can customize this `README.md` file according to your specific requirements or preferences. Let me know if you'd like any changes!
